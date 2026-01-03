@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Alyza 👋
+I'm a **first-year Computer Science student** at the **University of Toronto**.
 
-<!--
-**alyzacamille/alyzacamille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm focused on building strong **computer science fundamentals** while exploring different areas of software development.
 
-Here are some ideas to get you started:
+Right now, I'm especialy interested in **web development** as a way to apply what I'm learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Tools 🛠️
+- **Languages:** Python, C
+- **Tools:** VS Code, Wing IDE
+- **Currently learning:** HTML, CSS, JavaScript
+
+### What I'm Working On 🚧
+I've gained experience by building and extending programs through structured assignments, working with existing codebases, and implementing new functionality.
+
+I'm now starting to build **small independent projects** to practice designing and implementing programs from scratch.
+
+### Interests 🎯
+- Web development - building interactive, user-focused applications
+- Exploring different areas of software to find the best fit long-term
+
+### Connect 📬
+- Personal email: alyza.camille07@gmail.com
+- School email: alyza.danganan@mail.utoronto.ca
